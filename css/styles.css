@@ -29,3 +29,13 @@ button.inline {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
         sans-serif;
 }
+
+.avatar {
+    width: 300px;
+    height: 300px;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 600px;
+}
