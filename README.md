@@ -1,6 +1,6 @@
-# git-recipes
+# Git Recipes
 
-Foundations project covering the topic of HTMl for The Odin Project course.
+Foundations project covering the topic of HTML for The Odin Project course.
 
 ### Topics covered:
 
