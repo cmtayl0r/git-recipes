@@ -1,0 +1,24 @@
+/* 
+------------------------------------------------------
+CSS EXERCISES
+------------------------------------------------------
+*/
+
+div.external {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p.internal {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+button.inline {
+    background-color: orange;
+    font-size: 18px;
+}
