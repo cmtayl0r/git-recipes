@@ -4,38 +4,15 @@ CSS EXERCISES
 ------------------------------------------------------
 */
 
-div.external {
-    background-color: red;
-    color: white;
-    font-size: 32px;
-    text-align: center;
-    font-weight: bold;
-}
-
-p.internal {
-    background-color: green;
-    color: white;
-    font-size: 18px;
-}
-
-button.inline {
-    background-color: orange;
-    font-size: 18px;
-}
-
-.button__1,
-.button__2 {
-    font-size: 28px;
+html {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
         sans-serif;
 }
 
-.avatar {
-    width: 300px;
-    height: 300px;
+.img__hero {
+    max-width: 400px;
 }
 
-.avatar.distorted {
-    width: 200px;
-    height: 600px;
+h1 {
+    font-size: 36px;
 }
